@@ -19,6 +19,11 @@ Scroll down for charts and working, or see the files section.
 <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 20%;"">
 <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 55%;">
 
+                                                                                                                         <div style="display: flex;">
+  <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 50%;">
+  <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style="width: 50%;">
+</div>
+
 
 ![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true)
 
