@@ -14,11 +14,10 @@ Scroll down for charts and working, or see the files section.
 
 
 ## Charts
-<img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 54%;">
-<img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style="width: 54%;">
+<img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph1.jpg?raw=true" alt="alt text" style="width: 54%;">
 
-<img src="https://github.com/Android022/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style"width: 55%;">
-<img src="https://github.com/Android022/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style"width: 55%;">
+<img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph2.jpg?raw=true" alt="alt text" style="width: 54%;">
+
 
 
 ## Working
