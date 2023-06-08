@@ -16,6 +16,9 @@ Scroll down for charts and working, or see the files section.
 ## Charts
 ![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true)
 
+<img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width:300px;height:200px;">
+
+
 ![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true)
 
 
