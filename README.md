@@ -11,9 +11,9 @@ These do not need to be in FT style, but they do need to include real data and s
 
 
 ## Charts
-Chart 1:
+Chart 1: ![Screenshot](Chart 1.jpg)
 
-Chart 2:
+Chart 2: ![Screenshot](Chart 2.jpg)
 
 
 ## Working
