@@ -10,12 +10,13 @@ An FT reporter is writing a story about how the US film industry is recovering f
 These do not need to be in FT style, but they do need to include real data and suggested wording for publication. Provide clear documentation of your workings, ie how you obtained, cleaned and transformed the data needed for your chart(s).
 
 
+Scroll down for charts and working, or see the files section.
+
+
 ## Charts
-Chart 1: ![Screenshot](Chart 1.jpg)
-
-Chart 2: ![Screenshot](Chart 2.jpg)
-
 ![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true)
+
+![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true)
 
 
 
