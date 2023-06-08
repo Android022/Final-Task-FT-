@@ -19,6 +19,18 @@ Scroll down for charts and working, or see the files section.
 ## 2. Charts
 American cinemas are struggling after Covid. It’s not the virus: the problem is the movies. The US movie industry made $7.37bn in 2022, down 35% on 2019. But why? 
  
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%; padding-right: 10px;">
+    <p>
+      One theory is that Americans are still staying home more after Covid lockdowns. But we can test this - some states locked down much harder than others. As the first chart shows there is no correlation: cinemas in lockdown-hating Tennessee, for example, are emptier than those in New York, which imposed heavy restrictions.
+    </p>
+  </div>
+  <div style="flex: 50%;">
+    <img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph1.jpg?raw=true" alt="alt text" style="width: 100%;">
+  </div>
+</div>
+
+
 One theory is that Americans are still staying home more after Covid lockdowns. But we can test this - some states locked down much harder than others. As the first chart shows there is no correlation: cinemas in lockdown-hating Tennessee, for example, are emptier than those in New York, which imposed heavy restrictions.
 
 <img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph1.jpg?raw=true" alt="alt text" style="width: 54%;">
