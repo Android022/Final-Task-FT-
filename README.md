@@ -15,7 +15,7 @@ Chart 1: ![Screenshot](Chart 1.jpg)
 
 Chart 2: ![Screenshot](Chart 2.jpg)
 
-![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph_1.jpg?raw=true)
+![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true)
 
 
 
