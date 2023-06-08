@@ -15,6 +15,9 @@ Chart 1: ![Screenshot](Chart 1.jpg)
 
 Chart 2: ![Screenshot](Chart 2.jpg)
 
+![alt text](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph 1.jpg?raw=true)
+
+
 
 ## Working
 I started by reading several online articles about the US film industry post-Covid. They helped me to identify three main trends to explore: the impact of (a) lockdowns, (b) streaming services and (c) film quality/quantity.
