@@ -14,16 +14,8 @@ Scroll down for charts and working, or see the files section.
 
 
 ## Charts
-
-<img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 55%;"">
+<img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 55%;">
 <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style="width: 55%;">
-
-<div style="display: flex;">
-  <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 55%;">
-  <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style="width: 55%;">
-</div>
-
-
 
 
 ## Working
@@ -61,6 +53,8 @@ a. several academic studies have shown that Google Trends gives an accurate esti
 b. eyeballing it, searches for cinema were fairly constant, dropped severely during Covid, and have recovered but not back to their pre-Covid levels.
 
 Google Trends does not have an official api, so I wrote Python code to scrape Google Trends for 'cinema' searches in each state for each year of 2019-23. This guide was particularly helpful: https://hackernoon.com/how-to-use-google-trends-api-with-python
+
+My Python code is here: [Link to File](JacobReid02/Final-Task-FT-/blob/main/Google_Trends_Scraping.ipynb)
 
 With the data, I calculated the percentage change for each state from 2019 to 2023 (i.e. proxy for percentage change in Box Office revenue, 2023 vs 2019, the last full year before the pandemic).
 
