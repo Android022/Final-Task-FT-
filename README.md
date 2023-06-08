@@ -3,7 +3,7 @@
 ## Task
 An FT reporter is writing a story about how the US film industry is recovering from the cinema shutdown during the pandemic, and has asked the visual and data team for help. You have been handed the task to:
 
-1.Find a reliable data source for US domestic cinema "box office” revenue
+1. Find a reliable data source for US domestic cinema "box office” revenue
 
 2. Using the visualisation tool(s) of your choice, design 1-2 charts that show how the US film industry is (or is not) recovering. 
 
