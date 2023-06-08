@@ -22,17 +22,18 @@ Scroll down for charts and working, or see the files section.
 I started by reading several online articles about the US film industry post-Covid. They helped me to identify three main trends to explore: the impact of (a) lockdowns, (b) streaming services and (c) film quality/quantity.
 
 The most helpful articles included:
-https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema
 
-https://www.economist.com/business/2022/06/02/top-gun-flies-high-sparking-hopes-of-a-theatrical-recovery
+* https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema
 
-https://www.cnbc.com/2023/04/05/box-office-almost-back-to-pre-covid-levels.html
+* https://www.economist.com/business/2022/06/02/top-gun-flies-high-sparking-hopes-of-a-theatrical-recovery
 
-https://www.cnet.com/culture/entertainment/movie-theaters-didnt-die-but-theyll-never-be-the-same-again/
+* https://www.cnbc.com/2023/04/05/box-office-almost-back-to-pre-covid-levels.html
 
-https://variety.com/2022/film/news/box-office-top-gun-elvis-pandemic-return-1235303574/
+* https://www.cnet.com/culture/entertainment/movie-theaters-didnt-die-but-theyll-never-be-the-same-again/
 
-https://www.statista.com/chart/21425/annual-box-office-earnings-in-north-america/
+* https://variety.com/2022/film/news/box-office-top-gun-elvis-pandemic-return-1235303574/
+
+* https://www.statista.com/chart/21425/annual-box-office-earnings-in-north-america/
 
 
 ### Chart 1:
@@ -46,21 +47,25 @@ Then, for each state, I averaged their stringency score for each day in 2020. Th
 
 Unfortunately, state-level Box Office data is not available. Therefore, I used the proxy of Google searches for the word 'cinema'.
 
-Searches for cinema over time looks to be an accurate proxy of Box Office revenue because 
+Searches for cinema over time looks to be an accurate proxy of Box Office revenue because:
 
-a. several academic studies have shown that Google Trends gives an accurate estimate of behaviour, e.g. Vosen & Schmidt 2011 (https://onlinelibrary.wiley.com/doi/full/10.1002/for.1213?casa_token=dwJLfjjz_rcAAAAA%3APXn4iZrw4DWJhi20wOx4rvm_M9RteX2O1mNhA2V7ZxjkuFrNCIfcA35bnJE54hykVSJWGgW1ebLJlw), Choi & Varian 2009 (https://static.googleusercontent.com/media/www.google.com/en//googleblogs/pdfs/google_predicting_the_present.pdf)
+* a. several academic studies have shown that Google Trends gives an accurate estimate of behaviour, e.g. Vosen & Schmidt 2011 (https://onlinelibrary.wiley.com/doi/full/10.1002/for.1213?casa_token=dwJLfjjz_rcAAAAA%3APXn4iZrw4DWJhi20wOx4rvm_M9RteX2O1mNhA2V7ZxjkuFrNCIfcA35bnJE54hykVSJWGgW1ebLJlw), Choi & Varian 2009 (https://static.googleusercontent.com/media/www.google.com/en//googleblogs/pdfs/google_predicting_the_present.pdf)
 
-b. eyeballing it, searches for cinema were fairly constant, dropped severely during Covid, and have recovered but not back to their pre-Covid levels.
+* b. eyeballing it, searches for cinema were fairly constant, dropped severely during Covid, and have recovered but not back to their pre-Covid levels.
 
 Google Trends does not have an official api, so I wrote Python code to scrape Google Trends for 'cinema' searches in each state for each year of 2019-23. This guide was particularly helpful: https://hackernoon.com/how-to-use-google-trends-api-with-python
 
-My Python code is [Here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Google_Trends_Scraping.ipynb)
+My Python code is [here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Google_Trends_Scraping.ipynb)
 
 With the data, I calculated the percentage change for each state from 2019 to 2023 (i.e. proxy for percentage change in Box Office revenue, 2023 vs 2019, the last full year before the pandemic).
 
 I then merged these two datasets, to have three columns: state, average 2020 lockdown stringency, and percentage change in Google searches for 'cinema' (2023 vs 2019).
 
 Finally, I added the party of the Governor of each state at the start of 2020 (relevant since Governors were generally the ones in charge of state-wide lockdown policy).
+
+The dataset is [here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1Data.csv)
+
+And the chart is [here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg)
 
 
 ### Chart 2:
@@ -73,3 +78,7 @@ Monthly Box Office revenue comes from Box Office Mojo (owned by IMDb): https://w
 I merged these two datasets, to have three columns: month (from Jan 2019 to Dec 2022), Box Office revenue, and number of wide releases.
 
 Finally, I annotated the graph with several of the biggest post-Covid films, again from Box Office Mojo: https://www.boxofficemojo.com/month/by-year/?grossesOption=calendarGrosses
+
+The dataset is [here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2Data.csv)
+
+And the chart is [here](https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg)
