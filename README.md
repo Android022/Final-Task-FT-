@@ -17,6 +17,9 @@ Scroll down for charts and working, or see the files section.
 <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style="width: 54%;">
 <img src="https://github.com/JacobReid02/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style="width: 54%;">
 
+<img src="https://github.com/Android022/Final-Task-FT-/blob/main/Graph1.jpg?raw=true" alt="alt text" style"width: 55%;">
+<img src="https://github.com/Android022/Final-Task-FT-/blob/main/Graph2.jpg?raw=true" alt="alt text" style"width: 55%;">
+
 
 ## Working
 I started by reading several online articles about the US film industry post-Covid. They helped me to identify three main trends to explore: the impact of (a) lockdowns, (b) streaming services and (c) film quality/quantity.
