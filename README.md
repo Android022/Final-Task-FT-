@@ -1,8 +1,7 @@
 # Final-Task-FT: Task, working, data sources
 1. Task
 2. Charts
-3. Interpretation
-4. Working
+3. Working
 
 ## 1. Task
 An FT reporter is writing a story about how the US film industry is recovering from the cinema shutdown during the pandemic, and has asked the visual and data team for help. You have been handed the task to:
@@ -18,21 +17,18 @@ Scroll down for charts and working, or see the files section.
 
 
 ## 2. Charts
+American cinemas are struggling after Covid. It’s not the virus: the problem is the movies. The US movie industry made $7.37bn in 2022, down 35% on 2019. But why? 
+ 
+One theory is that Americans are still staying home more after Covid lockdowns. But we can test this - some states locked down much harder than others. As the first chart shows there is no correlation: cinemas in lockdown-hating Tennessee, for example, are emptier than those in New York, which imposed heavy restrictions.
+
 <img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph1.jpg?raw=true" alt="alt text" style="width: 54%;">
+
+The real reason is simpler: there are fewer blockbusters to see. Studios shut down in Covid, and the pipeline of films dried up. As the second chart shows, when films go on “wide” release across America - like Tom Cruise’s Top Gun Maverick - they still make a lot of revenue, as Americans are still keen to see them in big numbers. The problem is there are fewer big films around. When the movies return, so will the moviegoers.
 
 <img src="https://github.com/Android022/Final-Task-FT-/blob/main/graph2.jpg?raw=true" alt="alt text" style="width: 54%;">
 
 
-## 3. Interpretation
-American cinemas are struggling after Covid. It’s not the virus: the problem is the movies. The US movie industry made $7.37bn in 2022, down 35% on 2019. But why? 
- 
-One theory is that Americans are still staying home more after Covid lockdowns. But we can test this - some states locked down much harder than others. As the first chart shows there is no correlation: cinemas in lockdown-hating Tennessee, for example, are emptier than those in New York, which imposed heavy restrictions.
- 
-The real reason is simpler: there are fewer blockbusters to see. Studios shut down in Covid, and the pipeline of films dried up. As the second chart shows, when films go on “wide” release across America - like Tom Cruise’s Top Gun Maverick - they still make a lot of revenue, as Americans are still keen to see them in big numbers. The problem is there are fewer big films around. When the movies return, so will the moviegoers
-
-
-
-## 4. Working
+## 3. Working
 I started by reading several online articles about the US film industry post-Covid. They helped me to identify three main trends to explore: the impact of (a) lockdowns, (b) streaming services and (c) film quality/quantity.
 
 The most helpful articles included:
